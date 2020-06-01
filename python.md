@@ -7,3 +7,6 @@ https://cjolowicz.github.io/posts/hypermodern-python-01-setup/#setting-up-a-gith
   - GithubActions
   - Pre commit hooks
  
+
++ Dependecy management comparisons
+  - https://modelpredict.com/python-dependency-management-tools
