@@ -44,3 +44,4 @@ module.exports.init = function(config, logger, stats) {
 EOF 
 
 ```
+Refrences: https://superuser.com/questions/1434549/whats-the-different-between-cat-some-file-eof-some-stuff-eof-and-echo
