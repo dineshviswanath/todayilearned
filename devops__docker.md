@@ -10,7 +10,7 @@ Solution: Try to add "./" infront of volume mapping to get relative link
 
 
 ### Debug:
-1. *How-to Debug a Running Docker Container from a Separate Container*
++ *How-to Debug a Running Docker Container from a Separate Container*
 https://medium.com/@rothgar/how-to-debug-a-running-docker-container-from-a-separate-container-983f11740dc6
 ```bash
 docker run -t --pid=container:caddy \
@@ -20,9 +20,9 @@ docker run -t --pid=container:caddy \
   ubuntu
 ```
 
-1. Edit file content inside container without VI editor
++ Edit file content inside container without VI editor
 ```bash
-cat <<'EOF' >> index.js
+cat <<'EOF' > index.js
 'use strict';
 var debug = require('debug')
 
