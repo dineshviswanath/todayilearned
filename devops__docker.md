@@ -1,4 +1,10 @@
 
+### Dockerfile
+#### COPY and ADD diff
++ ADD: A valid use case for ADD is when you want to extract a local tar file into a specific directory in your Docker image. 
++ If you’re copying in local files to your Docker image, always use COPY because it’s more explicit.
+
+
 ### Error:
 Problem: 'AAA' is used in service "XXX" but no declaration was found in the volumes section.
 
