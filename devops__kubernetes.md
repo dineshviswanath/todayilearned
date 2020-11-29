@@ -9,5 +9,5 @@ https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument
 
 ## Scaling down the Daemenset
 ```
-kubectl patch daemonset splunk-forwarder-splunk-kubernetes-logging -p '{"spec": {"template": {"spec": {"nodeSelector": {"non-existing": "true"}}}}}'
+kubectl patch daemonset name -p '{"spec": {"template": {"spec": {"nodeSelector": {"non-existing": "true"}}}}}'
 ```
