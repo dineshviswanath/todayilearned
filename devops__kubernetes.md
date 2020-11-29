@@ -7,7 +7,7 @@ Explains when we need to use K8s and when not. Finally it says "It depends" but 
 https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/#notes
 
 
-##Scaling down the Daemenset
+## Scaling down the Daemenset
 ```
 kubectl patch daemonset splunk-forwarder-splunk-kubernetes-logging -p '{"spec": {"template": {"spec": {"nodeSelector": {"non-existing": "true"}}}}}'
 ```
