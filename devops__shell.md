@@ -2,6 +2,11 @@
 ## Reference
 https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html#tag_18_22
 
+## Links
++ https://explainshell.com/ 
++ 
+
+
 ## Here-document
 Source:
 https://superuser.com/questions/1434549/whats-the-different-between-cat-some-file-eof-some-stuff-eof-and-echo
