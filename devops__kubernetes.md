@@ -11,3 +11,6 @@ https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument
 ```
 kubectl patch daemonset name -p '{"spec": {"template": {"spec": {"nodeSelector": {"non-existing": "true"}}}}}'
 ```
+
+## debug curl container
+https://nikgrozev.com/2020/07/29/debug-container-in-kubernetes/
