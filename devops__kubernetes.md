@@ -13,4 +13,15 @@ kubectl patch daemonset name -p '{"spec": {"template": {"spec": {"nodeSelector":
 ```
 
 ## debug curl container
+```yaml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: testcurl
+spec:
+  containers:
+  - name: curl
+    image: curlimages/curl 
+    command: [ "sleep", "600" ]
+```
 https://nikgrozev.com/2020/07/29/debug-container-in-kubernetes/
