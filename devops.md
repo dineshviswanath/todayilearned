@@ -13,6 +13,8 @@ https://dev.to/appfleet/continuous-delivery-pipeline-for-kubernetes-using-spinna
 ## Networking
 https://iximiuz.com/en/posts/computer-networking-101/
 
+## FluentD
+https://joejztang.github.io/2019/08/07/fluentd-cheating-sheet/
 
 ## Github Actions
 ### Debugging
