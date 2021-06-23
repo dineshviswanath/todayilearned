@@ -7,3 +7,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Opti
 
 + Explain like 5 Redux [State, Action, Store, Redux, Subscriptions]
 https://dev.to/mikkpr/comment/oh4
+
+# Typescript
+https://learnxinyminutes.com/docs/typescript/
+
++ Typescript and Azure Table Storage 
+https://www.nepomuceno.me/2018/07/08/using-table-storage-in-typescript/
