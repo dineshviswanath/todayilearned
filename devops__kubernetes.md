@@ -25,3 +25,6 @@ spec:
     command: [ "sleep", "600" ]
 ```
 https://nikgrozev.com/2020/07/29/debug-container-in-kubernetes/
+
+## Start up checks
+![image](https://user-images.githubusercontent.com/2858081/123808924-136fb680-d8e9-11eb-8cfd-151aa3e6cd5b.png)
