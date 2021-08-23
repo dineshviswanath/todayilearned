@@ -1,7 +1,8 @@
 ## Docker Sketch
 ![image](https://user-images.githubusercontent.com/2858081/119145525-a2172b00-ba41-11eb-8401-30aa9cc33a35.png)
 
-
+## Tutorials
+https://training.play-with-docker.com/ops-s1-hello/
 
 ### Dockerfile
 #### COPY and ADD diff
@@ -54,4 +55,4 @@ module.exports.init = function(config, logger, stats) {
 EOF 
 
 ```
-Refrences: https://superuser.com/questions/1434549/whats-the-different-between-cat-some-file-eof-some-stuff-eof-and-echo
+References: https://superuser.com/questions/1434549/whats-the-different-between-cat-some-file-eof-some-stuff-eof-and-echo
