@@ -10,3 +10,6 @@ https://docs.aws.amazon.com/cli/latest/reference/ec2/revoke-security-group-ingre
 ```bash
 aws ec2 revoke-security-group-ingress --group-id sg-XXXX --protocol -1 --cidr X.X.X.X/32 --profile name
 ```
+
+### Sample Retails AWS application
+https://github.com/aws-samples/retail-demo-store
