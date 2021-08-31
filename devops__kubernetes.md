@@ -33,3 +33,6 @@ https://nikgrozev.com/2020/07/29/debug-container-in-kubernetes/
 ```bash
 kubectl run wait1 --image=waisbrot/wait --env="TARGETS=mongodb:27017"
 ```
+
+## Cronjob best practices
+https://dev.to/drcloudycoder/kubernetes-cronjob-best-practices-4nlk
