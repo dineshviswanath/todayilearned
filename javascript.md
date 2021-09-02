@@ -1,3 +1,7 @@
+# Javascript
+## Closure
+https://stackoverflow.com/questions/111102/how-do-javascript-closures-work?rq=1
+
 # NodeJs Sketch
 ![image](https://user-images.githubusercontent.com/2858081/119146742-d808df00-ba42-11eb-868b-de1783b6578f.png)
 
