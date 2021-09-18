@@ -6,6 +6,9 @@ https://security.stackexchange.com/questions/7421/how-do-the-processes-for-digit
 
 https://en.wikipedia.org/wiki/Public_key_certificate
 
+##Git
+http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;
+
 ## Spinnaker 
 is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 https://dev.to/appfleet/continuous-delivery-pipeline-for-kubernetes-using-spinnaker-885
