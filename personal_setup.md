@@ -1,0 +1,24 @@
+- Mac settings
+  - three finger drag
+  - single tap click track pad 
+- Chrome
+- Firefox
+- Spectacle
+- zappy
+- effortless
+- alfred
+- context
+- docker
+- aws-cli
+- Slack
+- iterm
+  - https://www.freecodecamp.org/news/jump-between-words-using-keyboard-shortcuts-in-iterm-fb1a70cecf79/
+  - brew
+    - brew install exa
+    - brew install kubectl
+    - brew install fzf
+    - brew install aws-iam-authenticator
+  - zsh
+  - aws
+  - kubectl
+  - docker
