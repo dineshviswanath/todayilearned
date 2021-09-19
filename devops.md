@@ -1,3 +1,6 @@
+#Devops Resources
+https://github.com/bregman-arie/devops-exercises
+
 ## Certificates/SSL/HTTPS
 https://security.stackexchange.com/questions/13688/my-understanding-of-how-https-works-gmail-for-example?rq=1
 
