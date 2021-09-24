@@ -13,3 +13,6 @@ aws ec2 revoke-security-group-ingress --group-id sg-XXXX --protocol -1 --cidr X.
 
 ### Sample Retails AWS application
 https://github.com/aws-samples/retail-demo-store
+
+# Lambda
++ AWS Lambda for beginners: overcoming the most common challenges https://blog.timescale.com/blog/aws-lambda-for-beginners-overcoming-the-most-common-challenges/
