@@ -10,7 +10,7 @@ https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configu
     - gzip
     - keepalive settings
     - server
-      - server_name products.tescomobile.com
+      - server_name products.mobile.com
       - listen 80 
       - location /
         - proxy_pass 
