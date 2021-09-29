@@ -1,6 +1,7 @@
 #Devops Resources
 + https://github.com/bregman-arie/devops-exercises
 + https://github.com/jlevy/the-art-of-command-line
++ https://haydenjames.io/90-linux-commands-frequently-used-by-linux-sysadmins/
 
 ## Certificates/SSL/HTTPS
 https://security.stackexchange.com/questions/13688/my-understanding-of-how-https-works-gmail-for-example?rq=1
