@@ -1,6 +1,6 @@
 # Javascript
 + Re-Introductions on Javascript https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-JavaScript Questions https://github.com/lydiahallie/javascript-questions
++ JavaScript Questions https://github.com/lydiahallie/javascript-questions
 ## Closure
 https://stackoverflow.com/questions/111102/how-do-javascript-closures-work?rq=1
 
