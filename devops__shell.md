@@ -32,3 +32,5 @@ module.exports.init = function(config, logger, stats) {
 }
 EOF
 ```
+
++ Grep https://noahan.me/posts/effective-code-browsing-part1/
