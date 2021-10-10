@@ -25,6 +25,7 @@ https://iximiuz.com/en/posts/computer-networking-101/
 https://joejztang.github.io/2019/08/07/fluentd-cheating-sheet/
 
 ## Github Actions
++ https://gist.github.com/br3ndonland/f9c753eb27381f97336aa21b8d932be6
 ### Debugging
 https://dev.to/retyui/how-debugging-github-actions-with-ssh-273n?a=github_community
 How to use debug a runner?
