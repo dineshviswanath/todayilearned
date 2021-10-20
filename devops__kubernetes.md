@@ -1,3 +1,6 @@
+## tools
++ https://github.com/datreeio/datree to check if the schema is right and check potential problems
+
 ## Do I Need Kubernetes?
 
 https://mbird.biz/writing/do-i-need-kubernetes.html
