@@ -23,3 +23,5 @@ https://cjolowicz.github.io/posts/hypermodern-python-01-setup/#setting-up-a-gith
 
 + Dependecy management comparisons
   - https://modelpredict.com/python-dependency-management-tools
+
++ Modules vs Package https://dev.to/bowmanjd/python-module-vs-package-4m8e
