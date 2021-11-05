@@ -7,6 +7,8 @@ https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html#tag_18
 + 
 
 
++ Github bash fun cloner https://www.marcusoft.net/2020/02/listing-and-cloning-private-github-repos-some-fun-with-bash-and-curl.html
+
 ## Here-document
 Source:
 https://superuser.com/questions/1434549/whats-the-different-between-cat-some-file-eof-some-stuff-eof-and-echo
