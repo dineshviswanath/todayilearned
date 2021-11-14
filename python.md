@@ -19,6 +19,15 @@ https://cjolowicz.github.io/posts/hypermodern-python-01-setup/#setting-up-a-gith
   - Click
   - GithubActions
   - Pre commit hooks
+
++ Best practices for containerizing Python applications with Docker
+  - https://snyk.io/blog/best-practices-containerizing-python-docker/
+  - Use explicit and deterministic Docker base image tags for containerized Python applications.
+  - Separate dependencies from source code.
+  - Use Python WSGI for production.
+  - Run containers with least possible privilege (and never as root).
+  - Handle unhealthy states of your application. 
+  - Find and fix security vulnerabilities in your Python Docker application image.
  
 
 + Dependecy management comparisons
