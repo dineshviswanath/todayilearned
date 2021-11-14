@@ -1,4 +1,4 @@
-#Devops Resources
+# Devops Resources
 + https://github.com/bregman-arie/devops-exercises
 + https://github.com/jlevy/the-art-of-command-line
 + https://haydenjames.io/90-linux-commands-frequently-used-by-linux-sysadmins/
@@ -19,7 +19,8 @@ is an open source, multi-cloud continuous delivery platform for releasing softwa
 https://dev.to/appfleet/continuous-delivery-pipeline-for-kubernetes-using-spinnaker-885
 
 ## Networking
-https://iximiuz.com/en/posts/computer-networking-101/
++ https://iximiuz.com/en/posts/computer-networking-101/
++ https://hpbn.co/ best resources to understand deep TCP and networking. 
 
 ## FluentD
 https://joejztang.github.io/2019/08/07/fluentd-cheating-sheet/
