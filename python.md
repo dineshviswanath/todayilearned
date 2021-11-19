@@ -34,3 +34,4 @@ https://cjolowicz.github.io/posts/hypermodern-python-01-setup/#setting-up-a-gith
   - https://modelpredict.com/python-dependency-management-tools
 
 + Modules vs Package https://dev.to/bowmanjd/python-module-vs-package-4m8e
++ 5 Unique Python Function https://levelup.gitconnected.com/5-unique-python-function-7f99c927523b
