@@ -9,7 +9,7 @@
 
 
 
-
++ Python macos virutalenvwrapper debugging https://stackoverflow.com/questions/49470367/install-virtualenv-and-virtualenvwrapper-on-macos
 
 + Use of modern development practices in Python
 https://cjolowicz.github.io/posts/hypermodern-python-01-setup/#setting-up-a-github-repository
