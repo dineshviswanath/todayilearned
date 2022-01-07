@@ -35,3 +35,8 @@ https://cjolowicz.github.io/posts/hypermodern-python-01-setup/#setting-up-a-gith
 
 + Modules vs Package https://dev.to/bowmanjd/python-module-vs-package-4m8e
 + 5 Unique Python Function https://levelup.gitconnected.com/5-unique-python-function-7f99c927523b
+
+
+# Docker + Python
++ Dockerizing Python Poetry Applications https://medium.com/@harpalsahota/dockerizing-python-poetry-applications-1aa3acb76287
++ How to write a great Dockerfile for Python apps https://www.pybootcamp.com/blog/how-to-write-dockerfile-python-apps/
