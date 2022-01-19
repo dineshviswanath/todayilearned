@@ -56,3 +56,8 @@ EOF
 
 ```
 References: https://superuser.com/questions/1434549/whats-the-different-between-cat-some-file-eof-some-stuff-eof-and-echo
+
+
+
+## Networking
++ https://pythonspeed.com/articles/docker-connection-refused/  listening on 0.0.0.0, which means “listen on all interfaces” explanation
