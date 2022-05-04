@@ -37,6 +37,9 @@ https://github.com/jbrunton/gflows
 Until, we have github actions to support reusing Actions.
 More info on this thread: https://github.community/t/how-to-reuse-a-whole-workflow/17628
 
+### VPN
+https://tailscale.com/kb/
++ replacement for VPN server. more modern approach to the existing problems
 
 ## Others
 https://www.haskellforall.com/2021/09/forward-and-reverse-proxies-explained.html
