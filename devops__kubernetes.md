@@ -33,6 +33,10 @@ https://nikgrozev.com/2020/07/29/debug-container-in-kubernetes/
 ![image](https://user-images.githubusercontent.com/2858081/123808924-136fb680-d8e9-11eb-8cfd-151aa3e6cd5b.png)
 
 ## Debug Wait containers
+
++ https://learnk8s.io/troubleshooting-deployments
+  Comprehensive trouble shooting flow diagram
+
 ```bash
 kubectl run wait1 --image=waisbrot/wait --env="TARGETS=mongodb:27017"
 ```
