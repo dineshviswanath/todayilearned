@@ -43,3 +43,7 @@ https://tailscale.com/kb/
 
 ## Others
 https://www.haskellforall.com/2021/09/forward-and-reverse-proxies-explained.html
+
+## Git config
++ https://blog.gitguardian.com/8-easy-steps-to-set-up-multiple-git-accounts/
++ https://res.cloudinary.com/da8kiytlc/image/upload/v1647871440/Cheatsheets/GitGuardian_GitHub_Accounts_Cheatsheet.pdf
