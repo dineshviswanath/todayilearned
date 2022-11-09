@@ -25,3 +25,7 @@ https://www.nepomuceno.me/2018/07/08/using-table-storage-in-typescript/
 ---
 + About Javascript framework evolution
 https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks
+
+# Mixins and Multiple inheritance
++ https://www.typescriptlang.org/docs/handbook/mixins.html
++ https://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/
